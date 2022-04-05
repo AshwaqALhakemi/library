@@ -1,6 +1,6 @@
 ## Library
 
-library app
+Library Management app
 
 #### License
 

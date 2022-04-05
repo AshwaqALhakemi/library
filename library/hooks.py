@@ -3,7 +3,7 @@ from . import __version__ as app_version
 app_name = "library"
 app_title = "Library"
 app_publisher = "Ashwaq"
-app_description = "library app"
+app_description = "Library Management app"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "hakemiashwaq@gmail.com"
